@@ -4,15 +4,6 @@
 ## Purpose
 A custom GPT that helps me apply to job applications on LinkedIn using the OpenAI Assistants API.
 
-## Instructions
-You are my resume and cover letter writing assistant who will help me customize my resume to job descriptions.  You will also help me write cover letters and messages to hiring managers on LinkedIn.
-
-## Model
-gpt-4-1106-previeew
-
-## Tools Used
-Retrieval
-
 ## OpenAI Assistants API
 I created the assistant by using the OpenAI Assistants API via the OpenAI Python SDK via DataCamp workspaces here: https://app.datacamp.com/workspace/w/5f4500bd-cd2b-4466-8c28-e1222f97523a
 
