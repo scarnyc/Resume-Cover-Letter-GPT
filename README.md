@@ -1,5 +1,4 @@
 # Resume-Cover-Letter-GPT
-
 ## Purpose
 A custom GPT that helps me apply to job applications on LinkedIn using the OpenAI Assistants API.
 <img width="1892" alt="Screen Shot 2023-12-27 at 1 55 04 PM" src="https://github.com/scarnyc/Resume-Cover-Letter-GPT/assets/47287222/21c51412-c3c2-431d-8e86-fa657cff8d91">
